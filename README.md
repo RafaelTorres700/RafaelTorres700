@@ -16,11 +16,16 @@ You can click the Preview link to take a look at your changes.
 ![gif progamador vibrando](https://i.imgur.com/rTZkf4K.gif)
 ----------------------------------------------------
 - 🥸 Meu nome é Rafael Torres
-- ✍️ Sou estudande de Análize e desenvolvimento de Software
+- ✍️ Sou estudande de Análize e Desenvolvimento de Sistemas
+
+  
 - [ Acesse o meu Linkedin](https://www.linkedin.com/in/rafael-torres-447468353/)
 
-  ### Meus Cursos em andamento
-  -------------------------------------------
+ ### Meus Cursos em andamento
+-------------------------------------------
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="70px">
+---------------------------------------------------------------
 #Certificados
 |Cursos                          |Certificados|
 |--------------------------------|------------|
@@ -28,7 +33,3 @@ You can click the Preview link to take a look at your changes.
 |Do zero à vaga internacional:   |[Certificado](https://hermes.dio.me/certificates/CS9DG2W2.pdf)|
 |Projeto com HTML/CSS            |[Certificado](https://hermes.dio.me/certificates/UPEZDLRT.pdf)|
 |Príncipios do Git e Github      |[Certificado](https://hermes.dio.me/certificates/BCKBP7FU.pdf)|
-
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="70px">

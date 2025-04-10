@@ -24,3 +24,11 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Texto da imagem](https://gelkerribeiro.com.br/wp-content/uploads/2018/08/Casa_B_facahda_01-PS.jpg)
+
+> Citações
+> 2 citação
+
+|Tabela 1|Tabela 2|
+|--------|--------|
+|texto 1 |texto 2 |
+|texto 3 |texto 4 |

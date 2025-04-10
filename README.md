@@ -32,3 +32,8 @@ You can click the Preview link to take a look at your changes.
 |--------|--------|
 |texto 1 |texto 2 |
 |texto 3 |texto 4 |
+
+- [x] resposta 1
+- [ ] resposta 2
+- [x] resposta 3
+ 

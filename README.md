@@ -21,3 +21,6 @@ You can click the Preview link to take a look at your changes.
 **Negrito** 
 
 ( [Texto da imagem](https://gelkerribeiro.com.br/wp-content/uploads/2018/08/Casa_B_facahda_01-PS.jpg))
+
+
+![Texto da imagem](https://gelkerribeiro.com.br/wp-content/uploads/2018/08/Casa_B_facahda_01-PS.jpg)

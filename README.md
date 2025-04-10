@@ -12,4 +12,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Sejam bem vindos ao meu spaço GITHUB
-![gif progamador vibrando](https://blog.unyleya.edu.br/wp-content/uploads/2020/03/giphy-2.gif)
+![gif progamador vibrando](https://i.imgur.com/rTZkf4K.gif)
+----------------------------------------------------
+- 🥸 Meu nome é Rafael Torres
+- ✍️ Sou estudande de Análize e desenvolvimento de Software
+- [Linkedin](https://www.linkedin.com/in/rafael-torres-447468353/)
+

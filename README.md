@@ -25,8 +25,9 @@ You can click the Preview link to take a look at your changes.
 |Cursos                          |Certificados|
 |--------------------------------|------------|
 |Programar do Zero com JavaScript|[Certificado](https://hermes.dio.me/certificates/PYFEBL2D.pdf)|
-|||
-|||
+|Do zero à vaga internacional:   |[Certificado](https://hermes.dio.me/certificates/CS9DG2W2.pdf)|
+|Projeto com HTML/CSS            |[Certificado](https://hermes.dio.me/certificates/UPEZDLRT.pdf)|
+|Príncipios do Git e Github      |[Certificado](https://hermes.dio.me/certificates/BCKBP7FU.pdf)|
 
 
 

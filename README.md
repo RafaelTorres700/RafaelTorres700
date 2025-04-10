@@ -11,30 +11,5 @@ RafaelTorres700/RafaelTorres700 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-# Título 1 
-## Título 2
-### título 3
-#### Título 4
-##### Título 5
-###### Título 6
-
-**Negrito** 
-*Itálico*
-
-( [Texto da imagem](https://gelkerribeiro.com.br/wp-content/uploads/2018/08/Casa_B_facahda_01-PS.jpg))
-
-
-![Texto da imagem](https://gelkerribeiro.com.br/wp-content/uploads/2018/08/Casa_B_facahda_01-PS.jpg)
-
-> Citações
-> 2 citação
-
-|Tabela 1|Tabela 2|
-|--------|--------|
-|texto 1 |texto 2 |
-|texto 3 |texto 4 |
-
-- [x] resposta 1
-- [ ] resposta 2
-- [x] resposta 3
- 
+## Sejam bem vindos ao meu spaço GITHUB
+![gif progamador vibrando](https://blog.unyleya.edu.br/wp-content/uploads/2020/03/giphy-2.gif)

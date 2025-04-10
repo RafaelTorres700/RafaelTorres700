@@ -21,5 +21,13 @@ You can click the Preview link to take a look at your changes.
 
   ### Meus Cursos em andamento
   -------------------------------------------
+#Certificados
+|Cursos                          |Certificados|
+|--------------------------------|------------|
+|Programar do Zero com JavaScript|[Certificado](https://hermes.dio.me/certificates/PYFEBL2D.pdf)|
+|||
+|||
+
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="70px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70px">

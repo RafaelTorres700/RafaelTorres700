@@ -7,12 +7,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 RafaelTorres700/RafaelTorres700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-## Sejam bem vindos ao meu spaço GITHUB
+## Sejam bem vindos ao meu GITHUB
 ![gif progamador vibrando](https://i.imgur.com/rTZkf4K.gif)
 ----------------------------------------------------
 - 🥸 Meu nome é Rafael Torres
@@ -21,12 +20,13 @@ You can click the Preview link to take a look at your changes.
   
 - [ Acesse o meu Linkedin](https://www.linkedin.com/in/rafael-torres-447468353/)
 
- ### Meus Cursos em andamento
--------------------------------------------
-
+ ## Meus Cursos em andamento
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70px">      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70px">          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="70px">
+  
 ---------------------------------------------------------------
-#Certificados
+## Certificados
+
 |Cursos                          |Certificados|
 |--------------------------------|------------|
 |Programar do Zero com JavaScript|[Certificado](https://hermes.dio.me/certificates/PYFEBL2D.pdf)|
@@ -35,4 +35,4 @@ You can click the Preview link to take a look at your changes.
 |Príncipios do Git e Github      |[Certificado](https://hermes.dio.me/certificates/BCKBP7FU.pdf)|
 
 
-![![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelTorres700&theme=dark&show_icons=true)))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelTorres700&theme=dark&show_icons=true)

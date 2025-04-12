@@ -33,6 +33,6 @@ You can click the Preview link to take a look at your changes.
 |Do zero à vaga internacional:   |[Certificado](https://hermes.dio.me/certificates/CS9DG2W2.pdf)|
 |Projeto com HTML/CSS            |[Certificado](https://hermes.dio.me/certificates/UPEZDLRT.pdf)|
 |Príncipios do Git e Github      |[Certificado](https://hermes.dio.me/certificates/BCKBP7FU.pdf)|
-
+|Formatação com Markdown         |[Certificado](https://hermes.dio.me/certificates/UU42PZEB.pdf)|
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelTorres700&theme=dark&show_icons=true)

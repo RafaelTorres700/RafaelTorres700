@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Sejam bem vindos ao meu GITHUB
-![gif progamador vibrando](https://i.imgur.com/rTZkf4K.gif)
 ![https://gifer.com/pt/66Fp](https://i.gifer.com/Qudl.gif)
 ----------------------------------------------------
 - 🥸 Meu nome é Rafael Torres

@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 ----------------------------------------------------
 - 🥸 Meu nome é Rafael Torres
 - ✍️ Sou estudande de Análize e Desenvolvimento de Sistemas
+- ✍️ Aluno Firjan Senai, Programador Full Stack
 
   
 - [ Acesse o meu Linkedin](https://www.linkedin.com/in/rafael-torres-447468353/)

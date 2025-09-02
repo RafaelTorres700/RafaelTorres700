@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   
 - [ Acesse o meu Linkedin](https://www.linkedin.com/in/rafael-torres-447468353/)
 
- ## Cursos em andamento
+ ## Habilidades
 <p align="center">
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  width="70px">
